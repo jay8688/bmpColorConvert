@@ -1,0 +1,1 @@
+bcc.py converts bitmap color image from its original RGB (888) space into 565 space that reduces by 1 byte each pixel.
